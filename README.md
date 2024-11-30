@@ -10,7 +10,7 @@ The QMK Configurator is an online tool used for easily creating firmware files f
 
 The QMK Configurator allows simple keymap creation and saving via .json keymap files, and generates appropriate firmware files for flashing onto selected keyboards.
 
-This project is very much a work in progress. To begin contributing, please refer to the following:
+This project is very much a work in progress. To begin contributing, please refer to the following: 
 
  * [Issues](https://github.com/qmk/qmk_configurator/issues)
 
