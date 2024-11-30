@@ -140,7 +140,7 @@ export default {
       }
     },
     githubKeyboardFolderURL() {
-      return `https://github.com/qmk/qmk_firmware/tree/master/keyboards/${this.keyboard}`;
+      return `https://github.com/clownfish-og/qmk_firmware/tree/dev_branch/keyboards/${this.keyboard}`;
     },
     keyboard: {
       get() {
