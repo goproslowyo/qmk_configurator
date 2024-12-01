@@ -42,7 +42,7 @@ jobs:
         run: |
           echo VITE_TRAVIS_COMMIT=$GITHUB_SHA >> .env.production
           yarn run build
-          echo config.qmk.fm > dist/CNAME
+          echo goproslowyo.github.io > dist/CNAME
       - name: Deploy
         if: ${{ github.event_name != 'pull_request' }}
         uses: JamesIves/github-pages-deploy-action@3.7.1
